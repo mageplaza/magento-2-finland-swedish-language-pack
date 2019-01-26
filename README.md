@@ -89,8 +89,11 @@ Unzip the Finland Swedish language pack to Magento 2 root folder. In this guide,
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/sv_fi
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-finland-swedish-language-pack` to `sv_fi`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Finland Swedish pack manually, you have to access to you
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `sv_FI.zip` into `app/i18n/mageplaza/sv_FI/sv_FI.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sv_fi/sv_FI.csv`
+
+See this screenshot
+
+![Finland Swedish pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
