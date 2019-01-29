@@ -40,6 +40,8 @@ Install the Finland Swedish language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-finland-swedish-language-pack:dev-master
 php bin/magento setup:static-content:deploy sv_FI
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -50,6 +52,8 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-finland-swedish-language-pack:dev-master
 php bin/magento setup:static-content:deploy sv_FI
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
