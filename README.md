@@ -117,11 +117,13 @@ To download and install Finland Swedish pack manually, you have to access to you
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sv_fi/sv_FI.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sv_fi/`
 
-See this screenshot
+See this screenshot:
 
 ![Finland Swedish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **sv_fi**
 
 #### Step 2: Flush cache
 
