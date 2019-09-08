@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Finland Swedish Language Pack](https://www.mageplaza.com/magento-2-finland-swedish-language-pack.html)
 
-![Mageplaza Finland Swedish language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Finland Swedish language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
