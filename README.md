@@ -20,6 +20,8 @@ Read more [Magento 2 Finland Swedish Language Pack](https://www.mageplaza.com/ma
 
 This is status of Finland Swedish Language Pack, you can see how many percentage of this project has been done.
 
+![Finland Swedish language pack process](https://progress-bar.dev//?title=completed)
+
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-finland-swedish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
